@@ -97,7 +97,8 @@ void day() {
 		}
 	glEnd();
 
-
+	dayBeach();
+    	dayRiver();
 
 	glFlush();
 }
